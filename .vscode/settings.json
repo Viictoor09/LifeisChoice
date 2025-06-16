@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "LifeIsChoice.sln"
+    "dotnet.defaultSolution": "LifeisChoice.sln"
 }
