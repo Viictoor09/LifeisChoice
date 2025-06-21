@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 42f0dc0e7968a074aac40d564bf7a0e1
+guid: 4f7bc7fe43ec73b4489f8fef382e841c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,841 +110,673 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Unarmed_Idle_full_0
+      name: ArribaIzquierda
       rect:
         serializedVersion: 2
         x: 0
-        y: 192
-        width: 64
-        height: 64
+        y: 96
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47665bb437a382d4d89362f13136ece9
-      internalID: -1486318979
+      spriteID: d6d7444c08b02a340b448e97c3401350
+      internalID: -2052890947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_1
+      name: Arriba
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0299d5499db3994d8fa571752934274
+      internalID: 1930661369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArribaDerecha
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47531fc88b10fbd42b8530538a26f825
+      internalID: 1593858862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12ba5bb1449464bab497fa0640fc09
+      internalID: 915114151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_4
       rect:
         serializedVersion: 2
         x: 64
-        y: 192
-        width: 64
-        height: 64
+        y: 96
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19fea78bc0073ed469705ada9dc01cc3
-      internalID: -1867231402
+      spriteID: 6e0947ba67bcc4c408388ec294d62a08
+      internalID: 1058666833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_2
+      name: tileset_5
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
+        x: 80
+        y: 96
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7635c5db0cc676343afdd25b7778e33f
-      internalID: -996685541
+      spriteID: 95df0de70729a754c952045222ac4779
+      internalID: 1742147755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd1435e3fab58ce47ba36559111ce0f1
-      internalID: -2100262262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_4
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd4260e2232829e488371ae42ca244d2
-      internalID: 1551422051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05cb6cf3725e314449f89641c2f9d95c
-      internalID: -621647361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_6
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed69c916b67282d49b2d982f847deaca
-      internalID: -2118432008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_7
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb12f0bd76e787548a5c3554312601b7
-      internalID: -37847869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_8
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b96d55d7b0b8c6748862cda8f222b19a
-      internalID: 872300403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_9
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15e5801442cbee34cb027c2423b81286
-      internalID: 534744119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_10
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41b7066d03fbd2a46bec52c426e14eca
-      internalID: -184652664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_11
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 601d3d4ec61130a47814c08ca3a55258
-      internalID: 1676205731
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_12
+      name: Izquierda
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 64
-        height: 64
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3e37927ae92cd048ae62e86449232a9
-      internalID: -719380960
+      spriteID: 280ea11b6d2be2648ae0da0ad123b6ff
+      internalID: 1281423353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_13
+      name: floor
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64524db772daeb74c98041c78ffb44f4
+      internalID: 704468365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2d22e99b6275549878f5545366b939
+      internalID: 816065468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27dda27bb931e48920b07c8bb11586
+      internalID: 1070525233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_10
       rect:
         serializedVersion: 2
         x: 64
-        y: 128
-        width: 64
-        height: 64
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 876f4806d5bc11a4ca023d69c36a83ab
-      internalID: -316104587
+      spriteID: 49e8dd98d7ca3c34ba6189d385ad606c
+      internalID: 797778286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_14
+      name: tileset_11
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
+        x: 80
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e86394c99b0a5924b824474185382ce5
-      internalID: 1747426288
+      spriteID: 3ed8f9ff62ed9eb40817996973107df4
+      internalID: 1557835390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_15
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9603cc8e3d078fb438ea0a96cae69b72
-      internalID: 1340467269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_16
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e398f8b145fc2648894e91f30c22b78
-      internalID: 984453233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_17
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75f13de420301794fb34e7654358b89e
-      internalID: -1562376234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_18
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8d03be963efd1942b93faaf4d0d8e0a
-      internalID: 1512366585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_19
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 272aaad32870b864ca84bb6c6acc37a8
-      internalID: -2034419054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_20
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ee907fcac2774b4781a5794c443c869
-      internalID: -1359381116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_21
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06644d8d292a8944ba0975cb3ebc9053
-      internalID: -1567720050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_22
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 975dea7c133af66408f441a4f323aca5
-      internalID: 2101269259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_23
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ec7207d48c3d384cb110936d21feacf
-      internalID: 1754210347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Unarmed_Idle_full_24
+      name: AbajoIzquierda
       rect:
         serializedVersion: 2
         x: 0
         y: 64
-        width: 64
-        height: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8ce6ffce7531324480f4a34e47e2ca4
-      internalID: -1774618328
+      spriteID: 70003dde33cac684d82b0a8febf5dcea
+      internalID: -1067419201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_25
+      name: Abajo
       rect:
         serializedVersion: 2
-        x: 64
+        x: 16
         y: 64
-        width: 64
-        height: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f8bdb6cda843974680ae450771b9679
-      internalID: -810146962
+      spriteID: 0a26728c60aef8242a6881f1c905ca56
+      internalID: -1128036032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_26
+      name: AbajoDerecha
       rect:
         serializedVersion: 2
-        x: 128
+        x: 32
         y: 64
-        width: 64
-        height: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd8678ce0ba69d64cba9df11c9828251
-      internalID: -2040757620
+      spriteID: b9c2a795a00546746bd5dc3d3bec87ed
+      internalID: 2129512200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_27
+      name: tileset_15
       rect:
         serializedVersion: 2
-        x: 192
+        x: 48
         y: 64
-        width: 64
-        height: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23a556c4c1e98c84a9577e9c6521a3e6
-      internalID: 882234466
+      spriteID: 642e7bcd93ea2684a86b478e1ad7f826
+      internalID: -234117012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_28
+      name: tileset_16
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
+        x: 0
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35d1d0a1a56831f4ab5b17131f4ef534
-      internalID: -1274224922
+      spriteID: 6ba1514611f4f4640b72d37c034c68cb
+      internalID: -1965962105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_29
+      name: tileset_17
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2043dc7409b34be4cbc3d9090a073095
-      internalID: 1910144006
+      spriteID: b7d07112d9ec80241aabf2da567f093c
+      internalID: -1434224710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_30
+      name: tileset_18
       rect:
         serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
+        x: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa59fcbc64836c348ac2925c6b189fed
-      internalID: 1903077306
+      spriteID: c94898d19f7bc324799551b1e4e9f2be
+      internalID: 897867264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_31
+      name: tileset_19
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
-        width: 64
-        height: 64
+        x: 48
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c06065c74fe90a540b4cf6844816fd0d
-      internalID: 1844708892
+      spriteID: dae670fb84afc0f4ea750a67564b65f0
+      internalID: -314623966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_32
+      name: tileset_20
       rect:
         serializedVersion: 2
-        x: 512
-        y: 64
-        width: 64
-        height: 64
+        x: 0
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf140093e64ef8942acd689f3d50379f
-      internalID: 726087787
+      spriteID: 05a2c7785be04e6478791b6d292f49df
+      internalID: 1947690172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_33
+      name: tileset_21
       rect:
         serializedVersion: 2
-        x: 576
-        y: 64
-        width: 64
-        height: 64
+        x: 16
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3222d07de18beec49820b3235aea8872
-      internalID: 1474291641
+      spriteID: a84aa51d4c437f04b8c7873ca08312f7
+      internalID: -709724341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_34
+      name: Door
       rect:
         serializedVersion: 2
-        x: 640
-        y: 64
-        width: 64
-        height: 64
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a0b8c1f01b228b43bb3efc7be1206a7
-      internalID: 1456786977
+      spriteID: cc8b2b72ba0154a42ac24a559a87b409
+      internalID: 1489199548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_35
+      name: tileset_23
       rect:
         serializedVersion: 2
-        x: 704
-        y: 64
-        width: 64
-        height: 64
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 886c0407665603949a1a48f3b7f4ceaa
-      internalID: -29176344
+      spriteID: eed4dbd17533e1f4db70a6b5388bf20b
+      internalID: 1486547763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_36
+      name: tileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8834209288c894d9fd4c2a4af9ff5b
+      internalID: -1561602015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3301606f06f4004a916ee734a67f445
+      internalID: 957553850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a8bb1371359a4fbde8795e7a2ea11
+      internalID: -836495976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a749210daa52cc2499f47add6d006e9e
+      internalID: 1708598267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_28
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31c7c3b24162617488b47b187783e305
-      internalID: -1438172620
+      spriteID: 71b74828dfa244f4bb76edc1d7d3e408
+      internalID: 34773084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_37
+      name: tileset_29
       rect:
         serializedVersion: 2
-        x: 64
+        x: 16
         y: 0
-        width: 64
-        height: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13606f96e50ae9c40b2fd41fe741f6c5
-      internalID: 1911864309
+      spriteID: 82256406aaa867940b6a31e1847da6f7
+      internalID: -2011440566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_38
+      name: tileset_30
       rect:
         serializedVersion: 2
-        x: 128
+        x: 32
         y: 0
-        width: 64
-        height: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b3a65196ff69984fb7df2b67bfb7e32
-      internalID: 95438877
+      spriteID: 8a43d9120ae125b4fa33d9190d0bdaf6
+      internalID: 1397962027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unarmed_Idle_full_39
+      name: tileset_31
       rect:
         serializedVersion: 2
-        x: 192
+        x: 48
         y: 0
-        width: 64
-        height: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 257f114ac8476fd4894aa44e0161bb98
-      internalID: 346845806
+      spriteID: 30d565c1d56734248a7a1e87013e96c8
+      internalID: -1084130750
       vertices: []
       indices: 
       edges: []
@@ -960,46 +792,38 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Unarmed_Idle_full_0: -1486318979
-      Unarmed_Idle_full_1: -1867231402
-      Unarmed_Idle_full_10: -184652664
-      Unarmed_Idle_full_11: 1676205731
-      Unarmed_Idle_full_12: -719380960
-      Unarmed_Idle_full_13: -316104587
-      Unarmed_Idle_full_14: 1747426288
-      Unarmed_Idle_full_15: 1340467269
-      Unarmed_Idle_full_16: 984453233
-      Unarmed_Idle_full_17: -1562376234
-      Unarmed_Idle_full_18: 1512366585
-      Unarmed_Idle_full_19: -2034419054
-      Unarmed_Idle_full_2: -996685541
-      Unarmed_Idle_full_20: -1359381116
-      Unarmed_Idle_full_21: -1567720050
-      Unarmed_Idle_full_22: 2101269259
-      Unarmed_Idle_full_23: 1754210347
-      Unarmed_Idle_full_24: -1774618328
-      Unarmed_Idle_full_25: -810146962
-      Unarmed_Idle_full_26: -2040757620
-      Unarmed_Idle_full_27: 882234466
-      Unarmed_Idle_full_28: -1274224922
-      Unarmed_Idle_full_29: 1910144006
-      Unarmed_Idle_full_3: -2100262262
-      Unarmed_Idle_full_30: 1903077306
-      Unarmed_Idle_full_31: 1844708892
-      Unarmed_Idle_full_32: 726087787
-      Unarmed_Idle_full_33: 1474291641
-      Unarmed_Idle_full_34: 1456786977
-      Unarmed_Idle_full_35: -29176344
-      Unarmed_Idle_full_36: -1438172620
-      Unarmed_Idle_full_37: 1911864309
-      Unarmed_Idle_full_38: 95438877
-      Unarmed_Idle_full_39: 346845806
-      Unarmed_Idle_full_4: 1551422051
-      Unarmed_Idle_full_5: -621647361
-      Unarmed_Idle_full_6: -2118432008
-      Unarmed_Idle_full_7: -37847869
-      Unarmed_Idle_full_8: 872300403
-      Unarmed_Idle_full_9: 534744119
+      Abajo: -1128036032
+      AbajoDerecha: 2129512200
+      AbajoIzquierda: -1067419201
+      Arriba: 1930661369
+      ArribaDerecha: 1593858862
+      ArribaIzquierda: -2052890947
+      Derecha: 816065468
+      Door: 1489199548
+      Izquierda: 1281423353
+      floor: 704468365
+      tileset_10: 797778286
+      tileset_11: 1557835390
+      tileset_15: -234117012
+      tileset_16: -1965962105
+      tileset_17: -1434224710
+      tileset_18: 897867264
+      tileset_19: -314623966
+      tileset_20: 1947690172
+      tileset_21: -709724341
+      tileset_23: 1486547763
+      tileset_24: -1561602015
+      tileset_25: 957553850
+      tileset_26: -836495976
+      tileset_27: 1708598267
+      tileset_28: 34773084
+      tileset_29: -2011440566
+      tileset_3: 915114151
+      tileset_30: 1397962027
+      tileset_31: -1084130750
+      tileset_4: 1058666833
+      tileset_5: 1742147755
+      tileset_9: 1070525233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
